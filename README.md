@@ -1,16 +1,21 @@
-# flutter_my_app
+# 📚 Quiz App – Flutter
 
-A new Flutter project.
+A simple and elegant **Quiz Application** built with **Flutter**.  
+Users can answer multiple-choice questions, track their score, and see the final result with an option to reset and try again.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
+✅ Clean and user-friendly interface  
+✅ Multiple-choice questions  
+✅ Automatic score calculation (10 points per correct answer)  
+✅ “Next” button to navigate through questions  
+✅ Final score screen with a reset button  
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🖼️ Screenshots
+<img width="389" height="793" alt="1" src="https://github.com/user-attachments/assets/629e4363-2ada-4706-b5f7-104db3812197" />
+<img width="377" height="816" alt="2" src="https://github.com/user-attachments/assets/50c674e4-efad-46a5-97cf-d8d94b6ad8a9" />
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
